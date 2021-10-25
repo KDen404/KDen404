@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KDen404
 I am a 22 year old Game Engineering Student, I mainly code in C++ and Python.
-- 🌱 I’m currently learning C#, MySQL and learning this weird language used to create CSGO SourceMod Server Plugins.
+- 🌱 I’m currently learning C#, MySQL and learning this weird language used to create SourceMod Server Plugins.
 
 I only got time to work on my projects in my spare time, which means if i don't upload for a long time this means i simply got no time to work on my projects...
 
