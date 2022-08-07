@@ -4,6 +4,8 @@ I am a 22 year old Game Engineering Student, I mainly code in C++ and Python.
 
 I only got time to work on my projects in my spare time, which means if i don't upload for a long time this means i simply got no time to work on my projects...
 
+Currently employed at: [ProjektAdler](https://github.com/ProjektAdLer)
+
 For Business Inquiries only: kden404@protonmail.com
 
 <!---
