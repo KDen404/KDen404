@@ -6,11 +6,30 @@ I only got time to work on my projects in my spare time, which means if i don't 
 
 Currently employed at: -------
 
-upcoming projects:
-GLED - An OpenGL Engine
+Current Tech Stack in experience order top = most experience:
+C++
+Wwise
+Unity
+Python
+C#
+OpenGL
+lua
+CMAKE
+HTML
+Java (Syntax is not the problem knowing the library is)
+Unreal Engine
+
+
+
+
+
+current projects:
+GLED - An OpenGL Engine (OpenGL, C++)
+rework of WickedTD
 
 planned project:
 Untitled indie Game - genre: rogue like
+
 
 
 For Business Inquiries only: kden404@protonmail.com
