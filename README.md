@@ -6,6 +6,7 @@ I am a 25 year old Game Engineering Bachelor of Science Student, I mainly solve 
 I only got time to work on my projects in my spare time, which means if i don't upload for a long time this means i simply got no time to work on my projects...
 
 Currently employed at: -------
+looking for work.
 
 ## Current Tech Stack in experience order top = most experience:
 - C++
