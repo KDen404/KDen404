@@ -26,8 +26,8 @@ looking for work.
 
 
 ## current projects:
-GLED - An OpenGL Engine (OpenGL, C++)
-rework of WickedTD
+- GLED - An OpenGL Engine (OpenGL, C++)
+- rework of WickedTD
 
 ## planned project:
 Untitled indie Game - genre: rogue like
