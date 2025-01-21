@@ -32,6 +32,8 @@ looking for work.
 ## planned project:
 Untitled indie Game - genre: rogue like
 
+## Game Development Related Skills:
+Sound & Music Design (Not a professional Musician but getting Wwise Certified in the next 1,5 years)
 
 
 #For Business Inquiries only: kden404@protonmail.com
