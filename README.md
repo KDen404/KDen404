@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m @KDen404
-I am a 25 year old Game Engineering Bachelor of Science Student, I mainly solve problems in C++ and Python.
+I am a 26 year old Game Engineering Bachelor of Science Student, I mainly solve problems in C++ and Python.
 
 
 
@@ -30,7 +30,6 @@ Frameworks:
 
 ## current open source projects:
 - GLED - An OpenGL Engine (OpenGL, C++)
-- 
 
 
 #For Business Inquiries only: kden404@protonmail.com
