@@ -1,11 +1,11 @@
 # About me
 Hi i am Dennis.\
 I am a 27 year old Game Engineering Bachelor of Science Student.\
-I mainly solve problems in C/C++, C# and Python.\
+I mainly solve problems in C/C++, C# and Python.
 
 
 Currently employed at: -\
-For Business Inquiries only: kden404@protonmail.com\
+For Business Inquiries only: kden404@protonmail.com
 
 ## Current Tech Stack in experience order top = most experience:
 Languages:
