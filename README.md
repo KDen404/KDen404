@@ -1,7 +1,7 @@
 # About me
-Hi i am Dennis.
-I am a 27 year old Game Engineering Bachelor of Science Student.
-I mainly solve problems in C/C++, C# and Python.
+Hi i am Dennis.\
+I am a 27 year old Game Engineering Bachelor of Science Student.\
+I mainly solve problems in C/C++, C# and Python.\
 
 
 Currently employed at: -
