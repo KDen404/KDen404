@@ -56,10 +56,43 @@ I provided the CMake files to Tobias C. Breiner so he can include them in upcomi
 
 ## current closed source projects:
 ### "GLED" - An OpenGL Engine (OpenGL, C++):
+#### Metadata:
+#### Description:
 Current development was moved to closed source a few months ago.
 The Engine heads into a much more modular way of handling things than planned and due to the modular design the repository will remain privately managed.
 I redesigned the entire Engine Architecture after it was moved to closed source.
-I will most likely abstract DLLSoundWwise in Order to use it in the redesigned Engine.
+#### Goal of the project:
+
+
+
+## past projects:
+
+
+
+### Sound@Games: Project Company
+#### Metadata:
+#### Description:
+#### Goal of the project:
+
+### Sounddesign and production for Games
+#### Metadata:
+#### Description:
+#### Goal of the project:
+
+### Music Production for Games
+#### Metadata:
+#### Description:
+#### Goal of the project:
+
+### Projekt Adler
+#### Metadata:
+#### Description:
+#### Goal of the project:
+
+### God Damn Hell
+#### Metadata:
+#### Description:
+#### Goal of the project:
 
 
 #For Business Inquiries only: kden404@protonmail.com
